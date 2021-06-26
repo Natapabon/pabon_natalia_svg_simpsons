@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 45">
+	<defs>
+		<style>
+			.cls-1{fill:#fddc00;}
+			.cls-2{fill:#fff;}
+
+			#yellow_backg_btn {
+			fill: #ffcd00;
+			}
+
+			#yellow_backg_btn:hover {
+			fill: #e39c03;
+			}
+
+
+
+		</style>
+	</defs>
+
+	<g id="back_btn">
+		<g id="yellow_backg_btn">
+			<rect class="cls-1" width="45" height="45" rx="5"/>
+		</g>
+
+		<g id="black_back_arrow">
+			<path d="M9,21.22H9V25H9l7.52,7.52h0l9.67,9.68,7.52-7.52V30.89h0L25.9,23.12l7.77-7.78v-3.8L26.15,4l-9.67,9.67h0L9,21.21H9Z"/>
+		</g>
+
+		<g id="white_back_arrow">
+			<polygon class="cls-2" points="17.18 14.4 26.15 5.43 32.26 11.54 23.29 20.51 22.58 21.21 23.29 21.92 32.26 30.89 26.15 37 17.18 28.03 16.49 27.34 16.49 27.34 10.36 21.21 16.49 15.09 17.18 14.4"/>
+		</g>
+	</g>
+</svg>
